@@ -1,0 +1,3 @@
+parallel_calculation2 -> gives garbage value
+parallel_calculation3 -> gives segmentation error
+parallel_calculation4 -> uses unified memory of jetson nano
