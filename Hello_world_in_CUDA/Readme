@@ -1,1 +1,4 @@
 Helloworld
+Run your first cuda code :
+1. nvcc hello_world.cu
+2. ./a.out
